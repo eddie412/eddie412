@@ -5,7 +5,7 @@
 - Email: juyoung412@gmail.com
 - GitHub: github.com/eddie412
 
-#학력
+# 학력
 - 2018.09 ~ 2020.08 Centennial college - computer system networking - 졸업
 - 2012.03 ~ 2013.09 신한대학교 - 컴퓨터 정보 학과 - 자퇴
 - 2009.03 ~ 2012.02 청원고등학교 - 졸업

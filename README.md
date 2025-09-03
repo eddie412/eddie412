@@ -20,7 +20,7 @@
  - 2014.12  워드프로세서 1급
  - 2011.12  1종보통운전면허
 
-# 경험 해 본 프로그래밍 언어 및 기술
+# 프로그래밍 언어 및 기술
   + BACKEND
     - Java
     - JSP
@@ -30,6 +30,8 @@
     - CSS3
     - HTML5
     - JavaScript
+    - MiPlatform
+    - React
   
   + DB
     - Oracle
@@ -39,6 +41,7 @@
     - Eclipse
     - SQL Developer
     - Vscode
+    - DevOn
   
   + OS
     - Unix
